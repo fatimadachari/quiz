@@ -6,8 +6,8 @@ Projeto realizado junto a video aula do Matheus Battisti: acesse a aula por [ess
 Para visualizar a página do projeto, [ acesse esse link](https://fatimadachari.github.io/quiz/).
 
 <p align="center">
-  <img src="/src/img/imagem-readme-um.png" width="500" alt="Preview do projeto">
-  <img src="/src/img/imagem-readme-dois.png" width="500" alt="Preview do projeto">
+  <img src="/src/img/imagem-readme-um.png" width="350" alt="Preview do projeto">
+  <img src="/src/img/imagem-readme-dois.png" width="350" alt="Preview do projeto">
 </p>
 
 
